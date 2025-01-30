@@ -1,7 +1,7 @@
 # <center> <strong> Álgebra Linear computacional 🔢💻 </strong> </center>
 Repositório com os códigos feitos para a disciplina de Álgebra Linear Computacional.
 
-## <em> Lista de arquivos </em>
+## <em> 🗂️ Lista de arquivos </em>
 <div style="text-align:justify;">
 <ul>
   <li> Matriz inversa: Código para o cálculo de matriz inversa </li>
